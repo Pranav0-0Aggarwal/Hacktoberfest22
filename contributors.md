@@ -37,3 +37,8 @@
 - Place: Chalakudy, Kerala, India
 - Bio: Computer Science student, Mar Athanasius College of Engineering, Kothamangalam, Kerala
 - GitHub: [Varghese Babu](https://github.com/varghese-babu)
+
+#### Name: [Pranav Aggarwal](https://github.com/Pranav0-0Aggarwal)
+- Place: Chandigarh,Chandigarh, India
+- Bio: Electronics Student, Bachelors in Technology, Punjab Engineering College
+- GitHub: [Pranav0-0Aggarwal](https://github.com/Pranav0-0Aggarwal)
